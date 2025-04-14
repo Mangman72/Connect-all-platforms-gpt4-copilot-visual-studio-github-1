@@ -1,2 +1,1 @@
-# Connect-all-platforms-gpt4-copilot-visual-studio-github-1
-A repository to demonstrate the connection between GPT-4, Copilot, Visual Studio, and GitHub
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
